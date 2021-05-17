@@ -14,8 +14,12 @@ Geometric Invariant Theory (GIT) was developed by Mumford and issued for constru
 <hr>
 
 
-### Plan of talks (under construction)
-
+<p align="center" >
+  <span> <strong>Plan of talks</strong> </span>
+  <br/>
+  (under construction)
+</p>  
+  
 **1. Preliminaries**
 - XX.05.2021: <strong> A brief review of affine and projective geometry </strong> <br/> Richard Gonzales
 - XX.05.2021: <strong> Lie groups and algebraic groups: basic definitions and properties </strong> <br/> Richard Gonzales
