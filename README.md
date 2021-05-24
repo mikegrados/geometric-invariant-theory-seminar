@@ -4,7 +4,7 @@
   <br/>
   Time and place: 15-17h on Mondays via Zoom
   <br><br>
-  <img src="git-nice-image.png">
+  <!--<img src="git-nice-image.png">-->
 </p>
 
 <hr>
