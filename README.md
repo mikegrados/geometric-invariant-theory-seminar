@@ -74,4 +74,14 @@ We will follow [B1], [Wo], [N1], [H1], [H2], [T], and [S]. Other recommended sou
 
 **References**
 
-[B1] Brion, M. *Introduction  to  actions  of  algebraic  groups*. Les cours du CIRM 1 (2010), no. 1, 1–22.
+**[B1]** Brion, M. *Introduction  to  actions  of  algebraic  groups*. Les cours du CIRM 1 (2010), no. 1, 1–22. <br/>
+**[H1]** Hoskins, V. *Moduli problems and geometric invariant theory*. Lecture notes. Freie Universit at, Berlin, Winter Semester 2015. <br/>
+**[H2]** Hoskins, V. *Geometric invariant theory and symplectic quotients*. Z urich, Winter Semester 2012. <br/>
+**[N1]** Newstead, P. E. *Introduction to moduli problems and orbit spaces*. Narosa publishing house, 1978. <br/>
+**[S]** Schmitt, A. H.  W. *Geometric invariant theory and decorated principal bundles*. Zürich Lectures in Advanced Mathematics. European Mathematical Society(EMS), Zürich, 2008. <br/>
+**[T]** Thomas, R. P. *Notes on GIT and symplectic reduction for bundles and varieties*, Surveys in differential geometry 10 (2006), 221–27. <br/>
+**[Wa]** Wallach  N. *Geometric invariant theory over the complex and real numbers*. Springer-Verlag, 2017. <br/>
+**[Wo]** Woodward, C. *Moment maps and geometric invariant theory*, Les cours du CIRM1 (2010), no. 1, 55–98. <br/>
+**[ZZ]** Zamora, A., Zuñiga-Rojas, R. *Geometric Invariant Theory, Holomorphic Vector bundles and the Harder-Narasimhan Filtration*. 2021 Springer.
+ 
+
