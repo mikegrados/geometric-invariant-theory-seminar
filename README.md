@@ -19,7 +19,7 @@ We will follow [B1], [Wo], [N1], [H1], [H2], [T], and [S]. Other recommended sou
 <hr>
 
 <p align="center" >
-  <span> <strong>Plan of talks</strong> </span>
+  <span> <strong>PLAN OF TALKS</strong> </span>
 </p>  
   
 **1. Preliminaries**
