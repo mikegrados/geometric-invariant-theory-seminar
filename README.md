@@ -23,7 +23,7 @@ We will follow [B1], [Wo], [N1], [H1], [H2], [T], and [S]. Other recommended sou
 </p>  
   
 **1. Preliminaries**
-- 31.05.2021: <strong> A brief review of affine and projective geometry </strong> | [apuntes](Talk1.pdf)<br/> R. Gonzales
+- 31.05.2021: <strong> A brief review of affine and projective geometry </strong> | [apuntes](https://drive.google.com/file/d/1kOQPMIw8a7WHWwtgyW_q1bzgAGgoF5YL/view?usp=sharing)<br/> R. Gonzales
 
 **2. Algebraic group actions**
 - 07.06.2021: <strong> Basic definitions and properties I </strong> <br/> R. Gonzales
