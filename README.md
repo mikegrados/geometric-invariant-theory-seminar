@@ -24,7 +24,7 @@ We will follow [B1], [Wo], [N1], [H1], [H2], [T], and [S]. Other recommended sou
   
 **1. Preliminaries**
 - 31.05.2021: <strong> A brief review of affine and projective geometry </strong> | [apuntes](https://drive.google.com/file/d/1kOQPMIw8a7WHWwtgyW_q1bzgAGgoF5YL/view?usp=sharing)<br/> R. Gonzales
-- 07.06.2021: <strong> Introduction to quotients of finite groups </strong> | [apuntes]()<br/> R. Gonzales
+- 07.06.2021: <strong> Introduction to quotients of finite groups </strong> | [apuntes](https://drive.google.com/file/d/1QRwJzWdOkpH5hQ2w8_dqM87E7oPpJPrb/view?usp=sharing)<br/> R. Gonzales
 
 **2. Algebraic group actions**
 - 14.06.2021: <strong> Basic definitions and properties I </strong> <br/> R. Gonzales
