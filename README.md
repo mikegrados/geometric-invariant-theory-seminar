@@ -14,7 +14,7 @@
 
 Geometric Invariant Theory (GIT) was developed by Mumford and used for constructing quotient spaces, quotients for group actions on algebraic varieties which in many cases appear as moduli spaces parametrizing isomorphism classes of geometric objects (vector bundles, polarized varieties, etc). We will study the basics on GIT, staying close to examples. Since in the analytic theory Mumford's GIT is replaced by theorems on moment maps and reductions, we will present these concepts too. Finally we will also explain the interesting phenomenon of variation of GIT. 
 
-We will follow [B1], [Wo], [N1], [H1], [H2], [T], and [S]. Other recommended sources are [Wa] (especially for beginner graduate students) and [ZZ].
+We will follow [B1], [Wo], [N1], [H1], [H2], [T], and [S]. Other recommended sources are [Wa], [ZZ], and [this video](https://www.youtube.com/watch?v=RQzG7K4zqCc).
 
 <hr>
 
@@ -27,18 +27,19 @@ We will follow [B1], [Wo], [N1], [H1], [H2], [T], and [S]. Other recommended sou
 - 07.06.2021: <strong> Introduction to quotients of finite groups </strong> | [apuntes](https://drive.google.com/file/d/1QRwJzWdOkpH5hQ2w8_dqM87E7oPpJPrb/view?usp=sharing)<br/> R. Gonzales
 
 **2. Algebraic group actions**
-- 14.06.2021: <strong> Basic definitions and properties I </strong> <br/> R. Gonzales
-- 21.06.2021: <strong> Basic definitions and properties II </strong> <br/> M. Grados
+- 14.06.2021: <strong> Basic definitions and properties I </strong> | [apuntes](https://drive.google.com/file/d/1p86u6VD-1j235UVao7js9QMK6mmolP09/view?usp=sharing) <br/> R. Gonzales 
+- 28.06.2021: <strong> Basic definitions and properties II </strong> | [apuntes](https://drive.google.com/file/d/1-mXukxt0KqiEUMRfXRQrBcc9n7EK1jXT/view?usp=sharing) <br/> R. Gonzales
+- 12.07.2021: <strong> Basic definitions and properties III </strong> | [apuntes]() <br/> M. Grados
 
 **3. Geometric invariant theory: the affine case**
-- 28.06.2021: <strong> Construction of the affine GIT quotient </strong> <br/> R. Gonzales
+- 19.07.2021: <strong> Construction of the affine GIT quotient </strong> <br/> R. Gonzales
 
 **4. Geometric invariant theory: the projective case**
-- 05.07.2021: <strong> Construction of the affine GIT quotient </strong> <br/> R. Gonzales
-- 12.07.2021: <strong> Brief review on line bundles and basic parameter spaces </strong> <br/> R. Gonzales
-- 19.07.2021: <strong> Linearizations </strong> <br/> J. Cuadros
-- 26.07.2021: <strong> GIT for projective varieties with ample linearizations </strong> <br/> J. Cuadros
-- 02.08.2021: <strong> GIT for general varieties with linearizations </strong> <br/> J. Cuadros
+- 26.07.2021: <strong> Construction of the affine GIT quotient </strong> <br/> R. Gonzales
+- 02.08.2021: <strong> Brief review on line bundles and basic parameter spaces </strong> <br/> R. Gonzales
+- XX.07.2021: <strong> Linearizations </strong> <br/> J. Cuadros
+- XX.07.2021: <strong> GIT for projective varieties with ample linearizations </strong> <br/> J. Cuadros
+- XX.08.2021: <strong> GIT for general varieties with linearizations </strong> <br/> J. Cuadros
 
 **5. Criteria for stability**
 - 09.08.2021: <strong> The Hilbert–Mumford criterion </strong> <br/> R. Gonzales
