@@ -29,7 +29,7 @@ We will follow [B1], [Wo], [N1], [H1], [H2], [T], and [S]. Other recommended sou
 **2. Algebraic group actions**
 - 14.06.2021: <strong> Basic definitions and properties I </strong> | [apuntes](https://drive.google.com/file/d/1p86u6VD-1j235UVao7js9QMK6mmolP09/view?usp=sharing) <br/> R. Gonzales 
 - 28.06.2021: <strong> Basic definitions and properties II </strong> | [apuntes](https://drive.google.com/file/d/1-mXukxt0KqiEUMRfXRQrBcc9n7EK1jXT/view?usp=sharing) <br/> R. Gonzales
-- 12.07.2021: <strong> Basic definitions and properties III </strong> | [apuntes]() <br/> M. Grados
+- 12.07.2021: <strong> Basic definitions and properties III </strong> | [apuntes](https://drive.google.com/file/d/1zYwiu1AT7UUZ_Hrsi65lZ7UV1N-fBtaD/view?usp=sharing) <br/> M. Grados
 
 **3. Geometric invariant theory: the affine case**
 - 19.07.2021: <strong> Construction of the affine GIT quotient </strong> <br/> R. Gonzales
