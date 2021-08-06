@@ -36,8 +36,8 @@ We will follow [B1], [Wo], [N1], [H1], [H2], [T], and [S]. Other recommended sou
 - 26.07.2021: <strong> Construction of the affine GIT quotient </strong> <br/> R. Gonzales
 
 **4. Geometric invariant theory: the projective case**
-- 02.08.2021: <strong> Construction of the GIT quotient </strong> <br/> R. Gonzales
-- 02.08.2021: <strong> Brief review on line bundles and basic parameter spaces </strong> <br/> R. Gonzales
+- 02.08.2021: <strong> Construction of the GIT quotient </strong> <br/> J. Cuadros
+- 02.08.2021: <strong> Brief review on line bundles and basic parameter spaces </strong> <br/> J. Cuadros
 - XX.07.2021: <strong> Linearizations </strong> <br/> J. Cuadros
 - XX.07.2021: <strong> GIT for projective varieties with ample linearizations </strong> <br/> J. Cuadros
 - XX.08.2021: <strong> GIT for general varieties with linearizations </strong> <br/> J. Cuadros
