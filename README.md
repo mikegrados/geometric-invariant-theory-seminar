@@ -35,6 +35,7 @@ We will follow [B1], [Wo], [N1], [H1], [H2], [T], and [S]. Other recommended sou
 **3. Geometric invariant theory: the affine case**
 - 26.07.2021: <strong> Construction of the affine GIT quotient </strong> <br/> R. Gonzales
 
+<!--
 **4. Geometric invariant theory: the projective case**
 - 02.08.2021: <strong> Construction of the GIT quotient </strong> <br/> J. Cuadros
 - 02.08.2021: <strong> Brief review on line bundles and basic parameter spaces </strong> <br/> J. Cuadros
@@ -72,6 +73,7 @@ We will follow [B1], [Wo], [N1], [H1], [H2], [T], and [S]. Other recommended sou
 **11. Variation of quotients**
 - 22.11.2021: <strong> Polarized ![](https://latex.codecogs.com/png.latex?\mathbb{C}^*)-quotients </strong> <br/> J. Cuadros
 - 29.11.2021: <strong> Variations using cones and chambers </strong> <br/> R. Gonzales
+-->
 
 <hr>
 
